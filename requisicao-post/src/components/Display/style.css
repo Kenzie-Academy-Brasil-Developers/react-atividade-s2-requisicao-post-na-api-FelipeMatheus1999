@@ -1,0 +1,11 @@
+.divResponse {
+    margin-top: 10px;
+}
+
+.responsePositive {
+    color: green;
+}
+
+.responseNegative {
+    color: red;
+}
